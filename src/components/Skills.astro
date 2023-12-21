@@ -1,0 +1,84 @@
+---
+import Icon from './Icon.astro';
+---
+
+<section class="box skills">
+	<div class="stack gap-2 lg:gap-4">
+		<Icon icon="CS" color="var(--accent-regular)" size="2.5rem" gradient />
+		<h2>Computer Science</h2>
+		<p>I am currently pursuing an Engineering degree in Computer Science at Enseirb-Matmeca. With a foundation built on two years of rigorous preparatory studies, I have developed a strong proficiency in various aspects of computer science.</p>
+		<p>My skills include:
+			<ul>
+				<li>Algorithmic problem-solving</li>
+				<li>Software development</li>
+				<li>Data structures</li>
+				<li>System programmation</li>
+				<li>Object-oriented programming</li>
+			</ul>
+		</p>
+	</div>
+	<div class="stack gap-2 lg:gap-4">
+		<Icon icon="terminal-window" color="var(--accent-regular)" size="2.5rem" gradient />
+		<h2> Programming language and tools</h2>
+		<p>GitHub, Python, C, C++, Java, JS, SGBD, Azure, Bash, Linux.</p>
+		<div id="Icons-skills">
+			<a href="https://github.com/Bugz-gg">
+				<Icon icon="github-skill" color="var(--accent-regular)" size="10rem" gradient />
+			</a>
+			<Icon icon="python-skill" color="var(--accent-regular)" size="10rem" gradient />
+			<Icon icon="c-skill" color="var(--accent-regular)" size="13rem" gradient />
+			<Icon icon="cpp-skill" color="var(--accent-regular)" size="10rem" gradient />
+			<Icon icon="java-skill" color="var(--accent-regular)" size="10rem" gradient />
+			<Icon icon="js-skill" color="var(--accent-regular)" size="10rem" gradient />
+			<Icon icon="sql-skill" color="var(--accent-regular)" size="12rem" gradient />
+			<Icon icon="azure" color="var(--accent-regular)" size="11rem" gradient />
+			<Icon icon="bash" size="12rem" />
+		</div>
+	</div>
+</section>
+
+<style>
+	#Icons-skills{
+		display: grid;
+		grid-template-columns: repeat(3, 1fr);
+		gap: 0.5rem;
+		
+	}
+	.box {
+		border: 1px solid var(--gray-800);
+		border-radius: 0.75rem;
+		padding: 1.5rem;
+		background-color: var(--gray-999_40);
+		box-shadow: var(--shadow-sm);
+	}
+
+	.skills {
+		display: flex;
+		flex-direction: column;
+		gap: 3rem;
+	}
+
+	.skills h2 {
+		font-size: var(--text-lg);
+	}
+
+	.skills p {
+		color: var(--gray-400);
+	}
+
+	@media (min-width: 50em) {
+		.box {
+			border-radius: 1.5rem;
+		}
+
+		.skills {
+			display: grid;
+			grid-template-columns: repeat(2, 1fr);
+			gap: 5rem;
+		}
+
+		.skills h2 {
+			font-size: var(--text-2xl);
+		}
+	}
+</style>
