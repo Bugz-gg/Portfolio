@@ -12,6 +12,8 @@ tags:
 
   # Amazon Game
 
+  GitHub: [Amazon Game](https://github.com/Bugz-gg/amazons_game)
+
   ## Overview
   The Amazon Game is a territorial battle between two players, each striving to preserve their mobility while restricting their opponent's. Traditionally played on a chessboard, players command a set number of Amazons. A turn consists of moving one piece and firing an arrow onto a vacant square, rendering it inaccessible. The complexity of the game is highlighted by the representation of inaccessible squares as walls.
   We based our project on this game, we had to do a serveur and 2 bots to play against each other. The purpose was to compete against other teams and see who had the best bot. We done it in C and implement heuristics to make our bot more efficient.

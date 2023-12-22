@@ -14,6 +14,8 @@ tags:
 ---
 # Fluencia
 
+GitHub: [Fluencia](https://github.com/Bugz-gg/hackathon-n-1)
+
 ## Overview
 
 Fluencia is an exciting project that introduces an AI-powered language learning tool with a focus on conversation-based learning. This innovative tool is designed to make language acquisition engaging and interactive, targeting learners interested in mastering English and other languages. By leveraging a chat-based interface and advanced AI models, Fluencia provides users with a dynamic and immersive language learning experience. It's vased on a IA API from Google Cloud Platform that we trained with data to fully understand his purpose and be able to answer questions and have a conversation with the user.
