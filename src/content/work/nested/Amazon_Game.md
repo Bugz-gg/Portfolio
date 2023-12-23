@@ -1,6 +1,6 @@
 ---
 title: Amazon Game
-publishDate: 2023-05-01 00:00:00
+publishDate: 2023-12-01 00:00:00
 img: /assets/Amazon_G.gif
 img_alt: Pearls of silky soft white cotton, bubble up under vibrant lighting
 description: |  
