@@ -1,6 +1,6 @@
 ---
 title: Shell
-publishDate: 2019-12-01 00:00:00
+publishDate: 2023-12-01 00:00:00
 img: /assets/bash.png
 # <a target="_blank" href="https://icons8.com/icon/8gWOBXY72Osj/frapper">frapper</a> icône par <a target="_blank" href="https://icons8.com">Icons8</a>
 img_alt: Bash shell logo.
