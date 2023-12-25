@@ -1,6 +1,6 @@
 # Portfolio
 
-Hello my name is Ilyes Bechoual and this is my portfolio I have done with Astro, It's currently deployed [www.ibechoual-portfolio.codes](www.ibechoual-portfolio.codes).
+Hello my name is Ilyes Bechoual and this is my portfolio I have done with Astro, It's currently deployed www.ibechoual-portfolio.codes.
 
 # Astro Starter Kit: Portfolio
 
