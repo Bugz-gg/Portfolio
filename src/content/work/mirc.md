@@ -1,8 +1,8 @@
 ---
-title: SGBD - Campus Carpooling Project
+title: RDBMS - Campus Carpooling Project
 publishDate: December 2023
 img: /assets/sgbd_project.png
-img_alt: SGBD Project Image
+img_alt: RDBMS Project Image
 description: |
   This project focuses on the development of a Database Management System (Système de Gestion de Base de Données) for the "MIRC COVOITURAGE" application, aimed at streamlining the organization of shared rides among students on campus. The report covers data modeling, relational schema, implementation details, and usage instructions.
 
